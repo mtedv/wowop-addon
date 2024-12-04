@@ -1,0 +1,10 @@
+## Interface: 100205
+## Title: wowop.io
+## Notes: WoWOP.io
+## Version: 1.0.0
+## Author: WoWOP.io
+## SavedVariables: WOWOPDB
+
+# Core files
+database.lua
+wowop.io.lua 
